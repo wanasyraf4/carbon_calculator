@@ -1,6 +1,6 @@
 # 🌍 Simple Carbon Footprint Calculator<br/>
 
-This Streamlit app is designed to help users quickly calculate their carbon footprint based on their monthly electricity usage, annual kilometers driven, and monthly natural gas consumption. It's a straightforward tool aimed at raising awareness about personal impact on the environment and encouraging more sustainable living habits.
+This app is designed to help users quickly calculate their carbon footprint based on their monthly electricity usage, annual kilometers driven, and monthly natural gas consumption. It's a straightforward tool aimed at raising awareness about personal impact on the environment and encouraging more sustainable living habits.
 
 ## 📝 How to Use
 Step 1: Open your web browser to the link provided by Streamlit ().<br/>
